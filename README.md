@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# Jogo-da-forca
-=======
 # Jogo-da-Forca
->>>>>>> master
+
+<h4 align="center"> 
+	🚧   Under development...  🚧
+</h4>
+
